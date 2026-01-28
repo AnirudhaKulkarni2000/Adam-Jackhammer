@@ -1,5 +1,15 @@
 # 💫 About Me:
-I am currently working on Apurva which is a NGO helper based prodsuct that helps NGO to hit thier goals and I am  a Devops who handles jenkins, cicd pipelins, authentication, Database,code etc<br>I am also working as pdouct manger in Invest UP which is a govermnet based collaberation process which helps Investors connect with the govermnet team . I mostly deal with tech stahc like React, Node, express and DB like postgress nd mongo
+I currently work across social impact, government collaboration, and health-tech products, balancing both technical execution and product strategy.
+
+At Apurva, an AI-powered platform that helps NGOs achieve their goals through technology and data-driven insights, I work in a DevOps-focused role. I manage CI/CD pipelines (Jenkins), cloud deployments, authentication systems, databases, and overall infrastructure, while also contributing to application-level improvements when needed.
+
+In parallel, I serve as a Product Manager for Invest UP, a government collaboration initiative designed to help investors connect seamlessly with government stakeholders. In this role, I drive product planning and execution while working closely with the tech stack, including React, Node.js, Express, PostgreSQL, and MongoDB, ensuring technology decisions align with user and stakeholder needs.
+
+Beyond my professional roles, I am also building a personal health-tech application called SAANVI, which stands for:
+
+Smart AI Assitant for Nutritional and Vital Information
+
+SAANVI is a mobile application focused on diet tracking, workout management, and overall health optimization, designed to act as an intelligent personal wellness assistant.
 
 
 # 💻 Tech Stack:
